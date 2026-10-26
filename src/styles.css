@@ -889,6 +889,7 @@ p {
     height: 69px;
   }
   .top-pill {
+    display: none;
     font-size: 12px;
     padding: 10px;
   }
